@@ -1,0 +1,13 @@
+*{
+    background-color: darkgray;
+    color:chocolate;
+    font-size: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#date{
+    font-size: 70px;
+    text-align: center;
+}
